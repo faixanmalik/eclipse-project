@@ -40,7 +40,7 @@ const Navbar = ({
             <img
               src="/assets/logo.svg"
               alt="Logo"
-              className="w-40"
+              className="w-52"
             />
           </Link>
         </div>

@@ -54,6 +54,7 @@ export default function Home() {
   const scrollToServices = () => {
     servicesRef.current?.scrollIntoView({ behavior: "smooth" });
   };
+  
 
   return (
     <div className="w-full md:items-center md:justify-center bg-black/[0.96] antialiased bg-grid-white/[0.02] relative overflow-hidden">
@@ -75,10 +76,11 @@ export default function Home() {
         </p>
 
         <Link
-          href={"/book"}
-          className="cursor-pointer flex items-center justify-center border rounded-full w-48 p-2  mx-auto my-6 text-white "
+          href="/book"
+          className="cursor-pointer hover:bg-white hover:text-black hover:animate-in flex items-center justify-center border rounded-full w-48 p-2 mx-auto my-6 text-white group relative"
         >
-          Book a call
+          <span className="group-hover:hidden">Book a call</span>
+          <span className="hidden group-hover:inline">+92 318 3335927</span>
         </Link>
 
         <div className="w-full pt-20">

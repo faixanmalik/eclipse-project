@@ -18,31 +18,31 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-    name: "Charles Dickens",
+      "I had my Shopify store built by you, and Alhamdulillah, it’s still running successfully. My sales are great, and even though many other stores have been terminated, mine is still going strong. Thank you so much, Team ECLIPSE—highly recommend!",
+    name: "Ali Raza",
     title: "A Tale of Two Cities",
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-    name: "William Shakespeare",
+      "I worked with Team ECLIPSE to build my Shopify store, and I couldn't be happier with the results. Even though some stores have shut down, mine is still thriving and my sales are better than ever. Huge thanks to the team for their incredible work!",
+    name: "Rabia Khan",
     title: "Hamlet",
   },
   {
-    quote: "All that we see or seem is but a dream within a dream.",
-    name: "Edgar Allan Poe",
+    quote: "Team ECLIPSE helped me create my Shopify store, and Alhamdulillah, it's still running smoothly. My sales have been consistent, and despite other stores facing difficulties, mine continues to succeed. Highly recommend their services for anyone serious about growing their online business",
+    name: "Ajmal Mirza",
     title: "A Dream Within a Dream",
   },
   {
     quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Jane Austen",
+      "Building my Shopify store with Team ECLIPSE was one of the best decisions I made. My store is still doing well, and the sales keep growing. Many other stores have faced issues, but mine is still going strong, thanks to their amazing support. Highly recommended!",
+    name: "Sara Ali",
     title: "Pride and Prejudice",
   },
   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
+      "6 month ago, I had only 60,000 PKR and decided to invest in my own Shopify store. I got it built through you and started my business. Today, Alhamdulillah, my business is running successfully, and I couldn’t be more grateful. I was so impressed that I also recommended you to many of my friends, and they started their businesses the same way. Highly recommended!",
+    name: "Ayesha Khan",
     title: "Moby-Dick",
   },
 ];
