@@ -5,21 +5,21 @@ import Image from "next/image";
 const stores = [
   {
     image: "/assets/shopifyimg1.jpg",
-    quote: "Bird showed us to get started, what to do, and how to do it.",
-    name: "Jason Scer",
+    quote: "Bhai honestly didn’t expect results this fast. Your strategy actually works! Got my first 100+ sales within a week. JazakAllah for the giving your time.",
+    name: "Ali Khan",
   },
   {
     image: "/assets/shopifyimg2.jpg",
     quote:
-      "We had no idea how to get started, but Bird showed us the way. And we were able to create something amazing.",
-    name: "John Prency",
+      "I’ve been working consistently for 4 months now and honestly, the results are beyond amazing. Daily sales, growing confidence, and a system that actually works. Couldn’t have done this without ECLIPSE. Highly recommend to anyone still thinking about it!",
+    name: "Hamza Ali",
   },
 
   {
     image: "/assets/shopifyimg3.jpg",
     quote:
-      "The team at Bird is amazing. They helped us create a stunning store that we are proud of.",
-    name: "Miguel Martinez",
+      "It’s been just 2 months since I started this journey, and I’ve already made more sales than I expected. Never thought I’d be running an actual business this soon. Thank you ECLIPSE for the guidance and support—this changed everything for me!",
+    name: "Bilal Ahmed",
   },
 ];
 

@@ -34,14 +34,7 @@ export const projects = [
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiMegaphone className="w-8 h-8 text-blue-600" /></div>,
         title: "Social Media",
         description:
-          "We offer social media management and ad creation services. We can help you grow your social media presence and reach new customers.",
-      
-      },
-      {
-        icon : <div className="bg-blue-100 p-4 rounded-full"><PiAppStoreLogo className="w-8 h-8 text-blue-600" /></div>,
-        title: "App Development",
-        description:
-          "We build custom mobile apps for iOS and Android. Our apps are designed to be user-friendly and performant.",
+          "We offer social media management,ads creations, performance marketing\digital marketing and take full control of your brand to grow you the next level.",
       
       },
       {
